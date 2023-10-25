@@ -1,0 +1,1 @@
+![UML-diagram](Miniprojekt2.png)
